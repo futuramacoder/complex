@@ -1,0 +1,20 @@
+{
+    "name": "aibek/complex",
+    "description": "Complex number class",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Айбек Жаксыбаев",
+            "email": "futuramacoder@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Complex\\": "src/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.4"
+    }
+}
